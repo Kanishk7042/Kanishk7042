@@ -1,4 +1,4 @@
-![MasterHead](https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjkwMDM3OTEsIm5iZiI6MTcyOTAwMzQ5MSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDE1VDE0NDQ1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc3MjdjODdlNGEzOTFjZjA0MzkyMzM1OGQ4ZTAwNDZlNWU4YjdjNzhlYzg0NzgzZjcwZjdmOWE2NmEzMzVkNWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.vvPmPZuReQaFNyb-3q_DyWiR4y0nX0NJQuG7fv38mfQ)
+[![MasterHead](https://miro.medium.com/max/1400/1*Vq0sQ79QIZV6V1R-t7qtmw.gif)](https://digacle.com)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kanishk</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
