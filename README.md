@@ -1,23 +1,22 @@
-[![MasterHead](https://miro.medium.com/max/1400/1*Vq0sQ79QIZV6V1R-t7qtmw.gif)](https://digacle.com)
+[![MasterHead](https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjkwMDM3OTEsIm5iZiI6MTcyOTAwMzQ5MSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDE1VDE0NDQ1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc3MjdjODdlNGEzOTFjZjA0MzkyMzM1OGQ4ZTAwNDZlNWU4YjdjNzhlYzg0NzgzZjcwZjdmOWE2NmEzMzVkNWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.vvPmPZuReQaFNyb-3q_DyWiR4y0nX0NJQuG7fv38mfQ)
 
-<h1 align="center">Hi 👋, I'm Kanishk Aswal</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kanishk</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kanishk7042&label=Profile%20views&color=0e75b6&style=flat" alt="Kanishk" /> </p>
+<p align="left"> <a href="https://twitter.com/KanishkAswal" target="blank"><img src="https://img.shields.io/twitter/follow/Kanishk?logo=twitter&style=for-the-badge" alt="Kanishk" /></a> </p>
 
-<p align="left">
-  <a href="https://twitter.com/KanishkAswal" target="blank">
-    <img src="https://img.shields.io/twitter/follow/Kanishk7042?logo=twitter&style=for-the-badge" alt="Kanishk7042" />
-  </a>
-</p>
 
-- 🌱 I’m currently learning **DSA, React**
+### 🌱 About Me
+- I’m currently learning **DSA, React**
 - 💬 Ask me about **DSA, Web Development**
 - 📫 Reach me at **kanishkaswal14@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 📫 Connect with me:
 <p align="left">
   <a href="https://twitter.com/KanishkAswal" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Kanishk" height="30" width="40" />
@@ -36,15 +35,19 @@
   </a>
 </p>
 
-<h3 align="left">📊 GitHub Stats:</h3>
+---
 
+### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Kanishk7042&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kanishk7042&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanishk7042&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kanishk7042&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
+---
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
